@@ -1,0 +1,33 @@
+html {
+    border: 15px solid orange;
+    width: 25%;
+    height: 90%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 20px;
+}
+
+.basic {
+    margin-left: 20px;
+}
+
+.mewtwo {
+    float: left;
+    margin-top: -20px;
+    margin-left: 20px;
+}
+
+.hitpoints {
+    float: right;
+    margin-top: -20px;
+    margin-right: 20px;
+    color: red;
+}
+
+.picture {
+    border: 5px solid orange;
+    height: 60%;
+    width: 89%;
+    margin-left: 20px;
+    margin-top: -20px;
+}
